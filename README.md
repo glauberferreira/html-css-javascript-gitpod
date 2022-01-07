@@ -6,7 +6,7 @@ This is a HTML/CSS template configured for ephemeral development environments on
 
 Click the button below to start a new development environment:
 
-[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/template-html)
+[![Open in Gitpod](https://gitpod.io/button/open-in-gitpod.svg)](https://gitpod.io/#https://github.com/gitpod-io/Gitpod-Web-Development-Example)
 
 ## Get Started With Your Own Project
 
